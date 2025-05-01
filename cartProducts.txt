@@ -1,0 +1,7 @@
+audio,yesterday,16.5,beetles,pop,9.8,0.75
+audio,we are the world,13.75,michael jackson,country,9.1,0.85
+video,sound of music,22.0,robert wise,1965,175,G,9.2,0.65
+video,star wars,22.0,george lucas,1977,120,PG,8.5,0.9
+ebook,the old man and the sea,8.3,ernest hemingway,127,9.5,0.4
+paper book,the hunger games,10.99,suzanne collins,374,9.7,0.6
+video,ponyo,20.0,hayao miyazaki,2008,101,G,9.8,0.95
